@@ -1,6 +1,6 @@
-##kitti转成voc数据集格式
+## kitti转成voc数据集格式
 tools.voc_format
-##数据集kitti
+## 数据集kitti
 config.base.yaml改数据集路径
 model.config改class_num
 dataset.VOC_dataset.py改CLASSES_NAME
